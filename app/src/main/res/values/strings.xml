@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tanks</string>
+    <string name="player1_name">Player 1</string>
+    <string name="player2_name">Player 2</string>
+    <string name="Enter_name1">Enter name of Player 1:</string>
+    <string name="Enter_name2">Enter name of Player 2:</string>
+    <string name="Pick_TankColor">Tank color:</string>
+    <string name="author">By: Dylan Rapanan</string>
+    <string name="fire_message">FIRE</string>
+    <string name="Cancel">Cancel</string>
+</resources>
